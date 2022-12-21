@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trends on Tags - in the world of Tags
-subtitle: YouTube videos
+subtitle: Exposing The Misuse of Tags in YouTube
 cover-img: /assets/img/earth.png
 thumbnail-img: /assets/img/earth.png
 share-img: /assets/img/earth.png
